@@ -18,18 +18,6 @@ var d = debug('orangewise');
 d('client side debug');
 ```
 
-## Client side debug messages
-
-Debug works in the browser as well.
-
-Type this in the console and refresh the page to log messages in the orangewise namespace:
-
-    debug.enable('orangewse*')
-    
-This will remain until you disable with 
-
-    debug.disable()
-
 
 ## Usage server side
 
@@ -49,6 +37,19 @@ The DEBUG environment variable is then used to enable these based on space or co
 
     # log all messages
     DEBUG=* meteor
+
+
+## Client side debug messages
+
+Debug works in the browser as well.
+
+Type this in the console and refresh the page to log messages in the orangewise namespace:
+
+    debug.enable('orangewse*')
+    
+This will remain until you disable with 
+
+    debug.disable()
 
 
 ### License
