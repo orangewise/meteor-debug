@@ -11,18 +11,18 @@ the [npm debug](https://www.npmjs.com/package/debug) package.
 
 ## Usage client side
 
-    ```javascript
-    var d = debug('orangewise');
-    d('server side debug, use debug, not debug ;)');
-    ```
+```javascript
+var d = debug('orangewise');
+d('server side debug, use debug, not debug ;)');
+```
 
 
 ## Usage server side
 
-    ```javascript
-    var d = debugs('orangewise');
-    d('server side debug, use debugs, not debug ;)');
-    ```
+```javascript
+var d = debugs('orangewise');
+d('server side debug, use debugs, not debug ;)');
+```
 
 
 ### License
