@@ -27,5 +27,5 @@ d('server side debug, use debugs, not debug ;)');
 
 ### License
 
-This code is published under the [MIT license](LICENSE).
+MIT
 
