@@ -1,7 +1,7 @@
 Package.describe({
   name: 'robodo:meteor-debug',
   summary: 'Meteor wrapper for npm debug',
-  version: '0.0.1',
+  version: '0.0.2',
   git: "https://github.com/orangewise/meteor-debug"
 });
 
