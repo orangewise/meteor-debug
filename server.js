@@ -1,1 +1,1 @@
-debugs = Npm.require('debug');
+debug = Npm.require('debug');

@@ -9,24 +9,15 @@ the [npm debug](https://www.npmjs.com/package/debug) package.
     meteor add robodo:meteor-debug
 
 
-## Usage client side
+## Usage, both server and client side
 
-Use the debug function:
+
 
 ```javascript
 var d = debug('orangewise');
-d('client side debug');
+d('a debug message');
 ```
 
-
-## Usage server side
-
-Use the debugs function:
-
-```javascript
-var d = debugs('orangewise');
-d('server side debug');
-```
 
 ## Server side debug messages
 
