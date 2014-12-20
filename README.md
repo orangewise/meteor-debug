@@ -36,7 +36,7 @@ Debug works in the browser as well.
 
 Type this in the console and refresh the page to log messages in the orangewise namespace:
 
-    debug.enable('orangewse*')
+    debug.enable('orangewise*')
     
 This will remain until you disable with 
 
