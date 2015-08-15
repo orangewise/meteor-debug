@@ -1,10 +1,10 @@
 {
   "dependencies": {
     "debug": {
-      "version": "2.1.0",
+      "version": "2.2.0",
       "dependencies": {
         "ms": {
-          "version": "0.6.2"
+          "version": "0.7.1"
         }
       }
     }
