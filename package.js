@@ -7,6 +7,7 @@ Package.describe({
 
 Npm.depends({'debug': '2.2.0'});
 
+
 Package.onUse(function(api) {
   api.versionsFrom('1.0');
   api.addFiles('debug.js','client');
