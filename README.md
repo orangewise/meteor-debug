@@ -42,6 +42,10 @@ This will remain until you disable with
 
     debug.disable()
 
+## Example App
+
+[Example Meteor App](/example/debug/)
+
 
 ### License
 
